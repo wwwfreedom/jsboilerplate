@@ -1,0 +1,11 @@
+{
+  "name": "standard-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Truong",
+  "license": "MIT"
+}
